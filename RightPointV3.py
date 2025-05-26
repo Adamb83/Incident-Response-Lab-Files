@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
+
+#Compile as .exe
 #pyinstaller --onefile --noconsole RightPointV3.py
-
-
-# ==============================================================================
-#!/usr/bin/env python3
-# victim.py
 
 import os
 import sys
