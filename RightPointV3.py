@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#pyinstaller --onefile --noconsole VictimGetPersistHomeVM.py
+#pyinstaller --onefile --noconsole RightPointV3.py
 
 
 # ==============================================================================
